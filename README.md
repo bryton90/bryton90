@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I'm veery socially awkward :)
 
 
-<img align="right" alt="Coding" width="400" src= https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif>
+<img align=" top right" alt="Coding" width="400" src= https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif>
 
 
 <!--
