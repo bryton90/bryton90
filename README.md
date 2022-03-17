@@ -5,10 +5,10 @@
 - 👯 I’m looking to collaborate on machine learning
 - ⚡ Fun fact: I'm veery socially awkward :)
 
-https://twitter.com/home
 
-<img align="right" alt="Coding" width="400" src="add your link 
-  here">
+<img align="right" alt="Coding" width="400" src= https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif>
+
+
 <!--
 **bryton90/bryton90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
