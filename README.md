@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on machine learning
 - ⚡ Fun fact: I'm veery socially awkward :)
-
-https://th.bing.com/th/id/R.d7254e416786f83b2d03434983596c7d?rik=KppVHVGdW7pVGA&riu=http%3a%2f%2fgifimage.net%2fwp-content%2fuploads%2f2017%2f10%2fcoding-gif-8.gif&ehk=NTerO%2fCfb%2bk2XYMpnDOwz0GUkYx0eiNWuHjZUbYzNuo%3d&risl=&pid=ImgRaw&r=0
+https://twitter.com/home
 
 <!--
 **bryton90/bryton90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
