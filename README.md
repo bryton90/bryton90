@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bryton</h1>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <h3 align="center">A passionate back-end developer</h3>
 
 
