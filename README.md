@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bryton</h1>
 <h3 align="center">A passionate back-end developer</h3>
-<img align="center" alt="Coding" width="400" src= https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryton90&label=Profile%20views&color=0e75b6&style=flat" alt="bryton90" /> </p>
 
@@ -10,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/brytonmccain](https://linktr.ee/brytonmccain)
 
+
+<img align=" right" alt="Coding" width="400" src= https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@blacknpowerful_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@blacknpowerful_" height="30" width="40" /></a>
