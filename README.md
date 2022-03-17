@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Bryton</h1>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <h3 align="center">A passionate back-end developer</h3>
 
 
@@ -39,3 +42,5 @@
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=n5d0h4ynqkfw3vvz07scmi5nz&width=400)
+
+
