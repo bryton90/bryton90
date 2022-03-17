@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Bryton</h1>
 <h3 align="center">A passionate back-end developer</h3>
-<img align=" top right" alt="Coding" width="400" src= https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif>
+<img align="center" alt="Coding" width="400" src= https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryton90&label=Profile%20views&color=0e75b6&style=flat" alt="bryton90" /> </p>
 
