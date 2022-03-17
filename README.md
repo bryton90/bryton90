@@ -36,5 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryton90&" alt="bryton90" /></p>
 
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=n5d0h4ynqkfw3vvz07scmi5nz&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=n5d0h4ynqkfw3vvz07scmi5nz&width=400)
