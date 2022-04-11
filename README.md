@@ -6,7 +6,10 @@
 <img align="center" alt="Coding" width="1000" src= https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryton90&label=Profile%20views&color=0e75b6&style=flat" alt="bryton90" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryton90" alt="bryton90" /></a> </p>
 
