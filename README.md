@@ -41,7 +41,7 @@ href="https://www.svgrepo.com/show/353656/django.svg" target="_blank" rel="noref
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryton90&" alt="bryton90" /></p>
+<p><img align="center" src="https://[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bryton90&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" alt="bryton90" /></p>
 
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
