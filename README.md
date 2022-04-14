@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Becoming better. 1% better everyday**
 
-- 🌱 I’m currently learning **C++, Python and javascript**
+- 🌱 I’m currently learning **C++, Python, Artficial Intelligence and javascript**
 
 - 👨‍💻 All of my projects are available at [https://t.co/BnHL2WQQrq](https://t.co/BnHL2WQQrq)
 
