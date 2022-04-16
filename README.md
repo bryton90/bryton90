@@ -38,7 +38,9 @@
 <p><img align="left"> <a src="https://github-readme-stats.vercel.app/api/top-langs?username=bryton90&show_icons=true&locale=en&layout=compact" alt="bryton90" /></p>
 
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bryton90&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=n5d0h4ynqkfw3vvz07scmi5nz&width=400)
