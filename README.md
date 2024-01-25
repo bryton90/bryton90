@@ -214,8 +214,6 @@ https://acetduiservicesurvey.com/
 
 <a href="mailto:brytonmccain@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 
-Please visit https://patience.onrender.com/
-
 To contact me:
 
 Email: brytonmccain@gmail.com
