@@ -194,7 +194,7 @@ https://acetduiservicesurvey.com/
 
 ✨ I am a team player and enjoy collaborating with others to achieve a common goal.
 
-✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+✨ Outside of work, I am an avid sports fan, especially when it comes to basketball.
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
        
