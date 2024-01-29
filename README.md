@@ -5,7 +5,7 @@
 <br/>
 - 🔭 Back-end developer with 4+ years of experience designing and building scalable, high-performance applications<br/>
 - 🌱 Proficient in back-end technologies like JavaScript, Python, and C++<br/>
-- 👍 Experience in CI/CD, and Cloud infrastructure, especially with Azure also GCP<br/>
+- 👍 Experience in CI/CD, and Cloud infrastructure, especially with AWS, Azure & also GCP<br/>
 - 😍 Developed some AI Apps and integrated with ChatGPT.</br>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
