@@ -6,7 +6,7 @@
 - 🔭 Back-end developer with 4+ years of experience designing and building scalable, high-performance applications<br/>
 - 🌱 Proficient in technologies like Typescript, Next.js, WebFlow, Bubble.io, JavaScript, Python, and C++<br/>
 - 👍 Experience in CI/CD, and Cloud infrastructure, especially with AWS, Azure & also GCP<br/>
-- 😍 Developed some AI Apps and integrated with Artificial Inteligence </br>
+- 😍 Developed some AI Apps and integrated with ChatGPT </br>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
 </div>
