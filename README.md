@@ -214,11 +214,9 @@ https://acetduiservicesurvey.com/
 
 <a href="mailto:brytonmccain@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 
-To contact me:
+To reach me:
 
 Email: brytonmccain@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/bryton-kilonzo-983171170/
 
 <a href="https://github.com/bryton90" target="_blank">![](https://github.com/bryton90/bryton90.github.io/blob/master/screenshots/screenshot.gif?raw=true)</a>
 
