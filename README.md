@@ -1,6 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Bonjour!👋 
-# Welcome #
+# Bonjour! 👋 Welcome #
 # Who am I? #
 <div>
 <br/>
