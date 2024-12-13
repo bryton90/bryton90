@@ -156,12 +156,6 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-<table>
-  <tr>
-    <td>
-
-  </tr>
-</table>
 
 <a href="https://github.com/bryton90" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
