@@ -168,8 +168,6 @@ https://acetduiservicesurvey.com/
 
 ## My personal values and work ethic
 
-✨ I want to build strong relationships with my clients.
-
 ✨ I believe that a good working relationship is built on mutual trust and respect.
 
 ✨ I value open communication and strive to keep you updated on progress every step of the way.
