@@ -188,9 +188,9 @@ https://acetduiservicesurvey.com/
          
 ✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
          
-✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
+✨ Web hosting options    ✔ Azure service   ✔ AWS Services and Lambda    ✔ cPanel service
          
-✨ Payment gateway integration  ✔Stripe, ✔PayPal
+✨ Payment gateway integration ✔M-Pesa, ✔Stripe, ✔PayPal
 
 # Reach out to me #
 
