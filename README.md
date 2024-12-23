@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Jambo Jambo👋 Welcome #
+# Jambo👋 Welcome #
 # Who am I? #
 <div>
 <br/>
