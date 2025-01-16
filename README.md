@@ -184,9 +184,9 @@ https://acetduiservicesurvey.com/
          
 ✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite
          
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
+✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔bubble.io
          
-✨ Web hosting options    ✔ Azure service   ✔ AWS Services and Lambda    ✔ cPanel service
+✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
          
 ✨ Payment gateway integration ✔M-Pesa, ✔Stripe, ✔PayPal
 
