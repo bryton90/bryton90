@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Jambo Jambo👋🏾 Welcome #
-# Who am I? #
+# Jambo Jambo👋🏾 #
+# Welcome #
 <div>
 <br/>
 - 🔭 Back-end developer with 4+ years of experience designing and building scalable, high-performance applications<br/>
