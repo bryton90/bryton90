@@ -5,10 +5,10 @@
 <br/>
 - 🔭 Back-end developer with 4+ years of experience designing and building scalable, high-performance applications<br/>
 - 🌱 Proficient in technologies like Typescript, Next.js, WebFlow, Bubble.io, JavaScript, Python, and C++<br/>
-- 👍 Experience in Designing & Networking <br/>
-- 😍 Developed some AI WebApps and integrated with GPT </br>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
-- 👨‍💻 Currently learning about swift.
+- 😍 Developed some AI WebApps and integrated with GPT </br>
+- 👍 Experience in Designing & Networking <br/>
+- 👨‍💻 Currently learning about swift <br/>
 </div>
 
 
