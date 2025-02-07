@@ -178,7 +178,7 @@ https://acetduiservicesurvey.com/
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
        
-✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
+✨ Preferred frameworks   ✔Python, ✔Django, ✔Flask, ✔Express.JS
           
 ✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
          
