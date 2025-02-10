@@ -11,7 +11,7 @@
 - 👨‍💻 Currently learning about swift <br/>
 </div>
 
-## My personal values and work ethic
+# My personal values and work ethic #
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
 
