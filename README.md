@@ -104,6 +104,10 @@
 </table>
 <br><br>
 
+</div>
+
+<p align="center">
+
 ## My personal values and work ethic
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
@@ -125,11 +129,6 @@
 ✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔bubble.io
          
 ✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
-
-
-</div>
-
-<p align="center">
 
 <!--
 <a href="https://github.com/bryton90?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bryton90&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@bryton's github-readme-stats"/></a>
