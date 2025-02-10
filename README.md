@@ -188,13 +188,7 @@ https://acetduiservicesurvey.com/
          
 ✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
 
-# Reach out to me #
 
-<a href="mailto:brytonmccain@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-
-To reach me:
-
-Email: brytonmccain@gmail.com
 
 <a href="https://github.com/bryton90" target="_blank">![](https://github.com/bryton90/bryton90.github.io/blob/master/screenshots/screenshot.gif?raw=true)</a>
 
