@@ -26,29 +26,6 @@
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 
 
-## My personal values and work ethic
-
-✨ I believe that a good working relationship is built on mutual trust and respect.
-
-✨ I value open communication and strive to keep you updated on progress every step of the way.
-
-✨ I am a team player and enjoy collaborating with others to achieve a common goal.
-
-✨ Outside of work, I am an avid sports fan, especially when it comes to basketball.
-
-✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
-       
-✨ Preferred frameworks   ✔Python, ✔Django, ✔Flask, ✔Express.JS
-          
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
-         
-✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite
-         
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔bubble.io
-         
-✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
-
-
 # 💻 My favorite tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: left">
@@ -130,6 +107,28 @@
 
 </div>
 
+
+## My personal values and work ethic
+
+✨ I believe that a good working relationship is built on mutual trust and respect.
+
+✨ I value open communication and strive to keep you updated on progress every step of the way.
+
+✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+
+✨ Outside of work, I am an avid sports fan, especially when it comes to basketball.
+
+✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+       
+✨ Preferred frameworks   ✔Python, ✔Django, ✔Flask, ✔Express.JS
+          
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
+         
+✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite
+         
+✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔bubble.io
+         
+✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
 
 <p align="center">
 
