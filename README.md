@@ -104,10 +104,6 @@
 </table>
 <br><br>
 
-
-</div>
-
-
 ## My personal values and work ethic
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
@@ -129,6 +125,9 @@
 ✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔bubble.io
          
 ✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
+
+
+</div>
 
 <p align="center">
 
