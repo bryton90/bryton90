@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Jambo Jambo 👋🏾  Welcome #
+# Jambo Jambo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Welcome #
 # Who am I ? #
 <div>
 <br/>
