@@ -11,6 +11,28 @@
 - 👨‍💻 Currently learning about swift <br/>
 </div>
 
+## My personal values and work ethic
+
+✨ I believe that a good working relationship is built on mutual trust and respect.
+
+✨ I value open communication and strive to keep you updated on progress every step of the way.
+
+✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+
+✨ Outside of work, I am an avid sports fan, especially when it comes to basketball.
+
+✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+       
+✨ Preferred frameworks   ✔Python, ✔Django, ✔Flask, ✔Express.JS
+          
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
+         
+✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite
+         
+✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔bubble.io
+         
+✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
+
 
 # Main Skills #
 
@@ -108,27 +130,6 @@
 
 <p align="center">
 
-## My personal values and work ethic
-
-✨ I believe that a good working relationship is built on mutual trust and respect.
-
-✨ I value open communication and strive to keep you updated on progress every step of the way.
-
-✨ I am a team player and enjoy collaborating with others to achieve a common goal.
-
-✨ Outside of work, I am an avid sports fan, especially when it comes to basketball.
-
-✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
-       
-✨ Preferred frameworks   ✔Python, ✔Django, ✔Flask, ✔Express.JS
-          
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
-         
-✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite
-         
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔bubble.io
-         
-✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
 
 <!--
 <a href="https://github.com/bryton90?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bryton90&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@bryton's github-readme-stats"/></a>
@@ -139,6 +140,12 @@
 
 </p>
 
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3Abryton90o+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryton90&theme=github_dark&utcOffset=4"  width="31%" alt="@bryton90's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Abryton90o+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bryton90&theme=github&utcOffset=4"  width="31%" alt="@bryton90's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Abryton90+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryton90&theme=github_dark&hide_border=true"  width="64%" alt="@bryton90's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3Abryton90+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryton90&theme=github&hide_border=true"  width="64%" alt="@Vbryton90's profile-details"/></a>
+</p>
 
 <a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
 
