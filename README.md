@@ -23,9 +23,9 @@
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
        
-✨ Preferred frameworks   ✔Python, ✔Django, ✔Flask, ✔Express.JS
+✨ Preferred frameworks   ✔SwiftUI, ✔Python, ✔Django, ✔Flask
           
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔Express.JS, ✔Nuxt.js, ✔React.js, ✔Vue.js
          
 ✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite
          
