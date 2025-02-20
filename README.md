@@ -9,6 +9,7 @@
 - 😍 Developed some AI WebApps and integrated with GPT </br>
 - 👍 Experience in Designing & Networking <br/>
 - 👨‍💻 Currently learning about swift <br/>
+       
 </div>
 
 # My personal values and work ethic #
