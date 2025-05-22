@@ -30,7 +30,7 @@
          
 ✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite
          
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔bubble.io
+✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔bubble.io
          
 ✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
 
