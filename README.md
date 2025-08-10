@@ -26,7 +26,7 @@
        
 ✨ Preferred frameworks   ✔SwiftUI, ✔Python, ✔Django, ✔Flask
           
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔Express.JS, ✔Nuxt.js, ✔React.js, ✔Vue.js
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔Express.js, ✔Nuxt.js, ✔React.js
          
 ✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite
          
