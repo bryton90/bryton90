@@ -27,12 +27,12 @@
 ✨ Preferred frameworks   ✔SwiftUI, ✔Python, ✔Django, ✔Flask
          
 ✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔bubble.io
-
-✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite ✔SQLite
           
 ✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔Express.js, ✔Nuxt.js, ✔React.js
          
 ✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
+
+✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite ✔SQLite
 
 
 # Main Skills #
