@@ -28,7 +28,7 @@
           
 ✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔Express.js, ✔Nuxt.js, ✔React.js
          
-✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite
+✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite ✔SQLite
          
 ✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔bubble.io
          
