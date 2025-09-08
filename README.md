@@ -25,12 +25,12 @@
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
        
 ✨ Preferred frameworks   ✔SwiftUI, ✔Python, ✔Django, ✔Flask
-          
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔Express.js, ✔Nuxt.js, ✔React.js
-         
-✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite ✔SQLite
          
 ✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔bubble.io
+
+✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL, ✔Appwrite ✔SQLite
+          
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔Express.js, ✔Nuxt.js, ✔React.js
          
 ✨ Web hosting options    ✔ Azure service,   ✔ AWS Services and Lambda,  ✔ cPanel service
 
