@@ -8,7 +8,7 @@
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 - 😍 Developed some AI WebApps and integrated with GPT </br>
 - 👍 Experience in Designing & Networking <br/>
-- 👨‍💻 Currently learning about swift <br/>
+- 👨‍💻 Currently learning about Quantum computing <br/>
        
 </div>
 
